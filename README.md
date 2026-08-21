@@ -74,7 +74,7 @@ I work across digital and physical prototyping — moving between interaction co
 ## 🌸 Pink Contribution Garden
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FF8FC7/610lulu" alt="610LULU pink GitHub contribution chart" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=610lulu&bg_color=0D1117&color=F8C7E0&line=FF8FC7&point=FCE7F3&area=true&hide_border=true&area_color=5C1F46&custom_title=610LULU%27s%20Contribution%20Garden" alt="610LULU pink contribution activity graph" width="100%" />
 </div>
 
 ---
