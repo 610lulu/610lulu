@@ -21,13 +21,13 @@ Building poetic interactions between **people, memory, machines and environments
 </a>
 
 <br><br>
-<sub>✿ minimal sakura edition ✿</sub>
+<sub>🌸 minimal sakura edition 🌸</sub>
 
 </div>
 
 ---
 
-## ✿ Selected Work
+## 🌸 Selected Work
 
 ### Deepscape Reverie
 **Digital Heritage · Memory · Interactive Storytelling**
@@ -59,13 +59,13 @@ A browser-based generative art tool where thousands of particles move through an
 
 ---
 
-## ✿ Currently Exploring
+## 🌸 Currently Exploring
 
 `Tangible Interaction` · `Physical Computing` · `HCI` · `Affective Interfaces` · `Creative Coding` · `Generative Systems`
 
 I work across digital and physical prototyping — moving between interaction concepts, embedded systems, creative computation and experience design.
 
-## ✿ Tools & Materials
+## 🌸 Tools & Materials
 
 `Arduino / ESP32` · `Python` · `JavaScript` · `HTML / CSS` · `Flask` · `Sensors` · `LED Systems` · `Rapid Prototyping`
 
