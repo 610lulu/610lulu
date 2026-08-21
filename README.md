@@ -1,12 +1,22 @@
 <div align="center">
 
-# 610LULU
+# Hi, I'm 610LULU 👋
 
-**Creative Technologist · Interaction Designer**
+### Creative Technologist · Interaction Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1100&color=8B949E&center=true&vCenter=true&width=720&lines=Tangible+Interaction+%C2%B7+HCI;Physical+Computing+%C2%B7+Creative+Coding;Memory+%C2%B7+Emotion+%C2%B7+Environments" alt="Typing introduction" />
 
 Building poetic interactions between **people, memory, machines and environments**.
 
-[Portfolio](https://610lulu.github.io/610-PORTFOLIO/) · [GitHub Projects](https://github.com/610lulu?tab=repositories)
+<br>
+
+<a href="https://610lulu.github.io/610-PORTFOLIO/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/610lulu?tab=repositories">
+  <img src="https://img.shields.io/badge/SELECTED_WORK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+</a>
 
 </div>
 
