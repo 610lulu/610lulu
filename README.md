@@ -1,28 +1,33 @@
 <div align="center">
 
+<img src="./assets/sakura-banner.svg" width="100%" alt="Animated sakura petals banner" />
+
 # Hi, I'm 610LULU 👋
 
 ### Creative Technologist · Interaction Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1100&color=8B949E&center=true&vCenter=true&width=720&lines=Tangible+Interaction+%C2%B7+HCI;Physical+Computing+%C2%B7+Creative+Coding;Memory+%C2%B7+Emotion+%C2%B7+Environments" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1100&color=F4A6C1&center=true&vCenter=true&width=760&lines=Tangible+Interaction+%C2%B7+HCI;Physical+Computing+%C2%B7+Creative+Coding;Memory+%C2%B7+Emotion+%C2%B7+Environments" alt="Typing introduction" />
 
 Building poetic interactions between **people, memory, machines and environments**.
 
 <br>
 
 <a href="https://610lulu.github.io/610-PORTFOLIO/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-FFB7D5?style=for-the-badge&logo=googlechrome&logoColor=2A1423&labelColor=FCE7F3" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/610lulu?tab=repositories">
-  <img src="https://img.shields.io/badge/SELECTED_WORK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  <img src="https://img.shields.io/badge/SELECTED_WORK-GITHUB-F4A6C1?style=for-the-badge&logo=github&logoColor=2A1423&labelColor=FCE7F3" alt="GitHub Projects" />
 </a>
+
+<br><br>
+<sub>✿ minimal sakura edition ✿</sub>
 
 </div>
 
 ---
 
-## Selected Work
+## ✿ Selected Work
 
 ### Deepscape Reverie
 **Digital Heritage · Memory · Interactive Storytelling**
@@ -54,22 +59,22 @@ A browser-based generative art tool where thousands of particles move through an
 
 ---
 
-## Currently Exploring
+## ✿ Currently Exploring
 
 `Tangible Interaction` · `Physical Computing` · `HCI` · `Affective Interfaces` · `Creative Coding` · `Generative Systems`
 
 I work across digital and physical prototyping — moving between interaction concepts, embedded systems, creative computation and experience design.
 
-## Tools & Materials
+## ✿ Tools & Materials
 
 `Arduino / ESP32` · `Python` · `JavaScript` · `HTML / CSS` · `Flask` · `Sensors` · `LED Systems` · `Rapid Prototyping`
 
 ---
 
-## Contribution Garden 🌸
+## 🌸 Pink Contribution Garden
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=610lulu&bg_color=0D1117&color=F4A7C1&line=FF6FAE&point=FFD1E3&area=true&hide_border=true&area_color=5C1F46&custom_title=610LULU%27s%20Contribution%20Garden" alt="610LULU pink contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=610lulu&bg_color=0D1117&color=F8C7E0&line=FF8FC7&point=FCE7F3&area=true&hide_border=true&area_color=5C1F46&custom_title=610LULU%27s%20Contribution%20Garden" alt="610LULU pink contribution activity graph" width="100%" />
 </div>
 
 ---
