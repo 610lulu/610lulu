@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./assets/sakura-banner.svg" width="100%" alt="Animated sakura petals banner" />
-
 # Hi, I'm 610LULU 👋
 
 ### Creative Technologist · Interaction Designer
