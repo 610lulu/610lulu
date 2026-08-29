@@ -69,12 +69,6 @@ I work across digital and physical prototyping — moving between interaction co
 
 ---
 
-## 🌸 Pink Contribution Garden
-
-![610LULU pink contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=610lulu&bg_color=fff&color=ff69b4&line=ff69b4&point=ff69b4)
-
----
-
 <div align="center">
 
 ### More work → [610 Portfolio](https://610lulu.github.io/610-PORTFOLIO/)
