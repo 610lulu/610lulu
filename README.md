@@ -18,8 +18,6 @@ Building poetic interactions between **people, memory, machines and environments
   <img src="https://img.shields.io/badge/SELECTED_WORK-GITHUB-F4A6C1?style=for-the-badge&logo=github&logoColor=2A1423&labelColor=FCE7F3" alt="GitHub Projects" />
 </a>
 
-<br><br>
-<sub>🌸 minimal sakura edition 🌸</sub>
 
 </div>
 
